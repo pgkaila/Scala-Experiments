@@ -1,4 +1,4 @@
-package be.piyush.scala.bindingstest
+package be.piyush.bindingstest
 
 /**
  * @Author Piyush Kaila

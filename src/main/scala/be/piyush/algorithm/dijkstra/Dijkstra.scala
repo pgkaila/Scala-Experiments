@@ -1,4 +1,4 @@
-package be.piyush.scala.algorithm.dijkstra
+package be.piyush.algorithm.dijkstra
 
 import scala.collection.mutable
 

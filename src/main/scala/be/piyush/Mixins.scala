@@ -1,4 +1,4 @@
-package be.piyush.scala
+package be.piyush
 
 /**
  * @Author Piyush Kaila

@@ -1,4 +1,4 @@
-package be.piyush.scala.algorithm.dijkstra
+package be.piyush.algorithm.dijkstra
 
 import java.io.{File, PrintWriter}
 
