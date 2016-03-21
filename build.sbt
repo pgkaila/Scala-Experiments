@@ -1,4 +1,5 @@
 lazy val root = (project in file(".")).
+  enablePlugins(JmhPlugin).
   settings(
     name := "Hello-Scala",
     version := "0.1.0",
